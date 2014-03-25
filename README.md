@@ -1,3 +1,4 @@
+autor: @davprez
 frontend-profesional
 ====================
 
